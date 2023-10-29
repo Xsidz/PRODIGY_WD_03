@@ -16,7 +16,7 @@ This is a classic Tic-Tac-Toe game web application built using HTML, CSS, and Ja
 
 ## Demo
 
-You can see a live demo of this Tic-Tac-Toe web application here: [Tic-Tac-Toe Demo](https://codepen.io/Siddhesh_/pen/VwqdRWP)
+You can see a live demo of this Tic-Tac-Toe web application here: [Tic-Tac-Toe Demo](https://prodtictactoe.netlify.app/)
 
 ## Features
 
